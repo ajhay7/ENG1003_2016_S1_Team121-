@@ -3,11 +3,16 @@ LIST OF MEMBERS FOR TEAM 121
 MEMBER 1 Adam Hayes
 
 <<<<<<< HEAD
+MEMBER 2 NAME
+=======
+<<<<<<< HEAD
 MEMBER 2 Jeff
 =======
 MEMBER 2 whatever
 >>>>>>> origin/master
+>>>>>>> origin/master
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 MEMBER 3 NAME 
 Shit lord
@@ -15,5 +20,9 @@ Shit lord
 MEMBER 3 NAME
 MY MUM'S COOKING MY MASSIVE BEAR COCK TONIGHT
 >>>>>>> parent of 0078f35... name chagned
+=======
+MEMBER 3 same musse
+MY MUM'S COOKING MY MASSIVE BEAR COCK TONIGHT
+>>>>>>> origin/master
 MEMBER 4 NAME
 Sean Sparks
