@@ -2,7 +2,15 @@ LIST OF MEMBERS FOR TEAM 121
 
 MEMBER 1 Adam Hayes
 
+<<<<<<< HEAD
 MEMBER 2 NAME
+=======
+<<<<<<< HEAD
+MEMBER 2 Jeff
+=======
+MEMBER 2 whatever
+>>>>>>> origin/master
+>>>>>>> origin/master
 
 MEMBER 3 same musse
 MY MUM'S COOKING MY MASSIVE BEAR COCK TONIGHT
